@@ -28,7 +28,7 @@ body{
 {
 
     #result_game{
-        margin-top: 200px;
+        margin-top: 20px;
         text-align: center;
         padding: 50px;
         border: 2px solid rgb(255, 255, 255);
@@ -83,13 +83,17 @@ body{
         width: 200px;
     }
 
+    #mensaje{
+        font-size: 20px !important;
+    }
+
 }
 
 @media (min-width: 501px)
 {
 
     #result_game{
-        margin-top: 200px;
+        margin-top: 50px !important;
         text-align: center;
         padding: 50px;
         border: 2px solid rgb(255, 255, 255);
@@ -150,7 +154,7 @@ body{
 {
 
     #result_game{
-        margin-top: 200px;
+        margin-top: 20px;
         text-align: center;
         padding: 50px;
         border: 2px solid rgb(255, 255, 255);
@@ -305,7 +309,7 @@ body{
 
     #Img-Piedra-Papel-Tijera{
         display: grid;
-        margin-top: 100px;
+        margin-top: 200px;
     }
 
     #buttons-img{
@@ -366,7 +370,7 @@ body{
   }
 
   #Img-Piedra-Papel-Tijera{
-      margin-top: 50px;
+      margin-top: 200px;
   }
 
 
@@ -389,12 +393,6 @@ body{
 }
 
 
-#contar{
-    text-align: center; 
-    color:black; 
-    margin-top:50px;
-    font-size: 30px;
-}
 
 
 
