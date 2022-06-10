@@ -56,8 +56,10 @@ function ingresar(){
             
                
 
-                  let numbers = numeros.join();
+                let numbers = numeros.join();
                  let div = document.getElementById("resultados");
+                 document.getElementById('rules').style = "display:none;"
+                 document.getElementById('label').style = "display:none;"
 
                  div.innerHTML = "<p>"+numbers+"</p>";
 
