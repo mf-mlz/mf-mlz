@@ -1,0 +1,143 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #333;
+    overflow-x: hidden;
+    
+
+}
+
+.header{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+.content{
+    max-width: 49rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin: auto;
+    text-align: center;
+}
+
+
+.header-video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.header-video video{
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.header-overlay{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #040507;
+    z-index: 1;
+    opacity: 0.90;
+
+}
+
+.header-content{
+    z-index: 2;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: -200px;
+    
+}
+
+
+.header-content h1{
+    font-size: 150px;
+    margin-bottom: 0;
+    font-family: 'Satisfy', cursive;
+    color: yellow;
+
+}
+
+#label{
+    font-size: 25px;
+}
+
+.button2 {
+    background-color: #f44336;
+    border: 1px solid #f44336;
+    color: white;
+    height: 30px;
+    width: 100px;
+} 
+
+
+
+
+@media (max-width: 700px){
+
+    .header-content{
+        z-index: 2;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: -100px;
+        
+    }
+
+    body{
+        overflow-x: hidden !important; 
+        overflow-y: hidden !important; 
+    }
+
+    .header-content h1{
+        font-size: 15vw;
+        margin-bottom: 0;
+        font-family: 'Satisfy', cursive;
+        color: yellow;
+    
+    }
+    
+    .button2 {
+        background-color: #f44336;
+        color: white;
+        margin-top: 10px;
+        height: 6.1vw;
+        width: 20vw;
+        border: 1px solid #f44336;
+    } 
+
+    .button3 {
+        background-color: yellow;
+        border: 1px solid yellow;
+        color: black;
+        height: 30px;
+        width: 100px;
+    } 
+
+    .header-overlay{
+        height: 101%;
+        width: 101vw;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: #040507;
+        z-index: 1;
+        opacity: 0.90;
+    }
+
+    #numero{
+        margin-top: -500px !important;
+    }
+}
