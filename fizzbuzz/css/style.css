@@ -68,6 +68,7 @@ body{
     margin-bottom: 0;
     font-family: 'Satisfy', cursive;
     color: yellow;
+    margin-top:150px;
 
 }
 
@@ -102,10 +103,11 @@ body{
     }
 
     .header-content h1{
-        font-size: 15vw;
+        font-size: 7vh;
         margin-bottom: 0;
         font-family: 'Satisfy', cursive;
         color: yellow;
+        margin-top: 100px;
     
     }
     
@@ -116,6 +118,7 @@ body{
         height: 6.1vw;
         width: 20vw;
         border: 1px solid #f44336;
+        margin-bottom: 20px;
     } 
 
     .button3 {
@@ -139,5 +142,14 @@ body{
 
     #numero{
         margin-top: -500px !important;
+    }
+    #resultados{
+        color: yellow !important;
+        font-size: 12px !important;
+        letter-spacing: 0.1px
+    }
+
+    #rules{
+        display: none;
     }
 }
