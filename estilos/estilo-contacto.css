@@ -150,7 +150,8 @@ header .logo
 {
   body{
     background-color: #111;
-   }
+    overflow-x: hidden !important; 
+  }
    .formulario{
   
     width: 500px;
@@ -182,6 +183,7 @@ header .logo
 {
  body{
   background-color: #111;
+  overflow-x: hidden !important;
  }
   .formulario{
   
