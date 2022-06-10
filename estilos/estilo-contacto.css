@@ -148,6 +148,18 @@ header .logo
 
 @media (max-width: 991px)
 {
+  body{
+    background-color: #111;
+   }
+   .formulario{
+  
+    width: 500px;
+    margin-top: 80px !important;
+    padding: 20px;
+    box-shadow: 0 0 20px 1px rgba(255, 255, 255, 0.3);
+    position: center;
+}
+
   .showcase,
   .showcase header
   {
@@ -164,9 +176,13 @@ header .logo
 
 }
 
+
+
 @media (max-width: 500px)
 {
- 
+ body{
+  background-color: #111;
+ }
   .formulario{
   
     width: 500px;
@@ -179,6 +195,10 @@ header .logo
 
 @media (max-width: 1600px)
 {
+
+  body{
+    background-color: #111;
+   }
  
   .formulario{
   
