@@ -318,3 +318,8 @@ outline: 1px solid rgba(0,0,0,0.7);
 .fijar{
     margin-top: -135px;
 }
+
+
+.formulario__input{
+  color: white !important;
+}
