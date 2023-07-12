@@ -10,24 +10,31 @@
 # 💻 Tech Stack:
 
 - **Front-End Development**:
+<br>
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,angular,jquery,tailwind,bootstrap )](https://skills.thijs.gg)]
 
 -  **Back-End Development**:
+<br>
 [![My Skills](https://skills.thijs.gg/icons?i=php,java,nodejs)](https://skills.thijs.gg)]
 
 -  **Databases**:
+<br>
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,sql)](https://skills.thijs.gg)]
 
 -  **Databases**:
+<br>
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,sql)](https://skills.thijs.gg)]
 
 -  **Cloud Hosting**:
-![[My Skills](https://skills.thijs.gg/icons?i=aws,azure,github)](https://skills.thijs.gg)]
+<br>
+[![My Skills](https://skills.thijs.gg/icons?i=aws,azure,github)](https://skills.thijs.gg)]
 
 -  **Softwares and Tools**:
+<br>
 [![My Skills](https://skills.thijs.gg/icons?i=linux,git,codepen,postman,bash,eclipse,figma,github,gitlab)](https://skills.thijs.gg)]
 
 -  **Extras**:
+<br>
 [![My Skills](https://skills.thijs.gg/icons?i=stackoverflow,linkedin )](https://skills.thijs.gg)]
 
 # 📊 GitHub Stats:
