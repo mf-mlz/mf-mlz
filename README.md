@@ -1,20 +1,24 @@
 # 💫 About Me:
 
-```python
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
-  def __str__(self):
-    return self.name
+```php
+<?php
 
-if __name__ == '__main__':
-    me = AbhigyanTrips()
+class Persona {
+  public $nombre;
+  public $edad;
+}
+
+// Crear objeto Fernanda
+$fernanda = new Persona();
+$fernanda->nombre = "Fernanda Labra";
+$fernanda->edad = 25;
+
+// Acceder a los atributos
+echo "Nombre: " . $fernanda->nombre . "<br>";
+echo "Edad: " . $fernanda->edad . "<br>";
+
+?>
+
 ```
 
 🔭 I'm currently working on AP Interfaces how PHP Developer<br>👯 I'm looking to collaborate in the area the Backend Developer<br>I'm looking to collaborate in the area the Backend Developer<br>🤝 I'm looking for help with the programming logic and the good practice.<br>🌱 I’m currently learning about the security in the web pages.<br>I’m currently learning about the security in the web pages.<br>💬 Ask me about my errors i consider very important for my learning<br>⚡ Throwing servers is my passion (Just kidding)
