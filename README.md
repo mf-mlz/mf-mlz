@@ -8,7 +8,27 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FerMtzLabra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mf_ml_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-fernanda-martinez-labra-732039161) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fmltz) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,php,angular,git,jquery,mongodb,mysql,nodejs,tailwind,aws,azure,bash,bootstrap,codepen,eclipse,figma,github,gitlab,java,jquery,linkedin,linux,nodejs,postman,stackoverflow,)](https://skills.thijs.gg)]
+
+- **Front-End Development**:
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,angular,jquery,tailwind,bootstrap )](https://skills.thijs.gg)]
+
+-  **Back-End Development**:
+[![My Skills](https://skills.thijs.gg/icons?i=php,java,nodejs)](https://skills.thijs.gg)]
+
+-  **Databases**:
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,sql)](https://skills.thijs.gg)]
+
+-  **Databases**:
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,sql)](https://skills.thijs.gg)]
+
+-  **Cloud Hosting**:
+![[My Skills](https://skills.thijs.gg/icons?i=aws,azure,github)](https://skills.thijs.gg)]
+
+-  **Softwares and Tools**:
+[![My Skills](https://skills.thijs.gg/icons?i=linux,git,codepen,postman,bash,eclipse,figma,github,gitlab)](https://skills.thijs.gg)]
+
+-  **Extras**:
+[![My Skills](https://skills.thijs.gg/icons?i=stackoverflow,linkedin )](https://skills.thijs.gg)]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mf-mlz&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
