@@ -4,18 +4,54 @@
 <?php
 
 class Persona {
-  public $nombre;
-  public $edad;
+  #Creación de los atributos del Objeto [Persona]
+  public $name; #Nombre
+  public $age;  #Edad
+  public $nationality;  #Nacionalidad
+  public $currentlyWorking; #Trabajo actual
+  public $professionalApproach; #Enfoque Profesional
+  public $learning; #Aprendizaje
+  public $todaysMood; #Humor
+  public $yearsOfExperience; #Años de Experiencia Laboral
 }
 
-// Crear objeto Fernanda
-$fernanda = new Persona();
-$fernanda->nombre = "Fernanda Labra";
-$fernanda->edad = 25;
+#Crear objeto (Fernanda)
+  $fernanda = new Persona();
 
-// Acceder a los atributos
-echo "Nombre: " . $fernanda->nombre . "<br>";
-echo "Edad: " . $fernanda->edad . "<br>";
+#Asignamos los valores de los atributos del Objeto
+  $fernanda->name = "María Fernanda Martínez Labra";
+  $fernanda->age = 25;
+  $fernanda->nationality = "Mexicana";
+  $fernanda->currentlyWorking = "Desarrollador PHP en AP/Interfaces";
+  $fernanda->professionalApproach = "BackEnd";
+  $fernanda->learning = "Buenas prácticas y  la lógica de Programación";
+  $fernanda->todaysMood = "Tirar Servidores es mi pasión (Humor)";
+  $fernanda->yearsOfExperience = 2;
+
+
+#Formamos nuestra frase utilizando nuestra función creada
+$message = aboutMe($fernanda);
+
+#Imprimimos nuestro resultado
+echo $message;
+
+#Hola, mi nombre es María Fernanda Martínez Labra y tengo 25 años, soy de nacionalidad Mexicana. Actualmente trabajo como Desarrollador PHP en AP/Interfaces y mi enfoque profesional es el área del BackEnd. Actualmente mi enfoque se centra en mejorar las Buenas prácticas y la lógica de Programación y si tuviera una frase que me describiera sería: Tirar Servidores es mi pasión (Humor).
+
+
+
+#Función para hablar sobre mi
+  function aboutMe($objeto) {
+    #Armamos nuestro About Me
+      $aboutMe = "Hola, mi nombre es ".$objeto->name." y tengo ". $objeto->age." años, soy de nacionalidad ". $objeto->nationality.".";
+      $aboutMe .= "Actualmente trabajo como ".$objeto->currentlyWorking." y mi enfoque profesional es el área del ".$objeto->professionalApproach.".";
+      $aboutMe .= "Actualmente mi enfoque se centra en mejorar las ".$objeto->learning. " y si tuviera una frase que me describiera sería: ";
+      $aboutMe .= $objeto->todaysMood;
+  
+    #Retornamos nuestro About Me
+      return $aboutMe;
+  
+  }
+#Fin Función para hablar sobre mi
 
 ?>
 
