@@ -1,4 +1,22 @@
 # 💫 About Me:
+
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Abhigyan Tripathi";
+    self.username = "abhigyantrips";
+    self.location = "Mumbai, India";
+    self.twitter = "@abhigyantrips";
+    self.web = "https://abhigyantrips.dev";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = AbhigyanTrips()
+```
+
 🔭 I'm currently working on AP Interfaces how PHP Developer<br>👯 I'm looking to collaborate in the area the Backend Developer<br>I'm looking to collaborate in the area the Backend Developer<br>🤝 I'm looking for help with the programming logic and the good practice.<br>🌱 I’m currently learning about the security in the web pages.<br>I’m currently learning about the security in the web pages.<br>💬 Ask me about my errors i consider very important for my learning<br>⚡ Throwing servers is my passion (Just kidding)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
