@@ -25,25 +25,25 @@
 
 - **Databases**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,sql )](https://skills.thijs.gg)]
+  [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,sql )](https://skills.thijs.gg)
 
 <br>
 
 - **Cloud Hosting**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=aws,azure,github )](https://skills.thijs.gg)]
+  [![My Skills](https://skills.thijs.gg/icons?i=aws,azure,github )](https://skills.thijs.gg)
 
 <br>
 
 - **Softwares and Tools**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=linux,git,codepen,postman,bash,eclipse,figma,github,gitlab )](https://skills.thijs.gg)]
+  [![My Skills](https://skills.thijs.gg/icons?i=linux,git,codepen,postman,bash,eclipse,figma,github,gitlab )](https://skills.thijs.gg)
 
 <br>
 
 - **Extras**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=stackoverflow,linkedin )](https://skills.thijs.gg)]
+  [![My Skills](https://skills.thijs.gg/icons?i=stackoverflow,linkedin )](https://skills.thijs.gg)
 <br>
 
 # 📊 GitHub Stats:
