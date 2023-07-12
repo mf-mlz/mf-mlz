@@ -17,32 +17,39 @@
 
 <br>
 
-- **Front-End Development**: 
+- **Back-End Development**:
 
-
--  **Back-End Development**:
-<br>
 [![My Skills](https://skills.thijs.gg/icons?i=php,java,nodejs)](https://skills.thijs.gg)]
 
--  **Databases**:
 <br>
+
+- **Databases**:
+
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,sql)](https://skills.thijs.gg)]
 
--  **Databases**:
 <br>
+
+- **Databases**:
+
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,sql)](https://skills.thijs.gg)]
 
--  **Cloud Hosting**:
 <br>
+- **Cloud Hosting**:
+
 [![My Skills](https://skills.thijs.gg/icons?i=aws,azure,github)](https://skills.thijs.gg)]
 
--  **Softwares and Tools**:
 <br>
+
+- **Softwares and Tools**:
+
 [![My Skills](https://skills.thijs.gg/icons?i=linux,git,codepen,postman,bash,eclipse,figma,github,gitlab)](https://skills.thijs.gg)]
 
--  **Extras**:
 <br>
+
+- **Extras**:
+
 [![My Skills](https://skills.thijs.gg/icons?i=stackoverflow,linkedin )](https://skills.thijs.gg)]
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mf-mlz&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
