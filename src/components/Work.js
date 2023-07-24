@@ -43,7 +43,7 @@ const Projects = [
   },
   {
     name: 'Platzi Food',
-    description: 'Sitio web construido con Tailwind CSS.',
+    description: 'Website built with Tailwind CSS.',
     link: 'https://rock-paper-scissors-mfmlz.netlify.app/',
     imgDark: ImgFoodDark,
     img: ImgFoodWhite
@@ -90,8 +90,7 @@ const Work = ({ theme }) => {
            variants={fadeIn('right', 0.5)}
            initial ="hidden"
            whileInView={"show"}
-           viewport={{once:false, amount:0.3}}
-           className=''>
+           viewport={{once:false, amount:0.3}}>
             <div>
               <h2 className='h2 leading-tight text-accent font-poppins mt-4'>
                 My personal projects.
@@ -112,19 +111,19 @@ const Work = ({ theme }) => {
               return (
                 <div className='w-full p-2' key={index}>
                   <div className='group relative overflow-hidden border-2 border-black/70 dark:border-white/50 rounded-xl h-96'>
-                    <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
+                    <div className='group-hover:bg-black/80 w-full h-full absolute z-40 transition-all duration-300'></div>
                     <img className='group-hover:scale-125 transition-all duration-500 h-96 w-full' src={theme === 'dark' ? imgDark : img} alt='' />
-                    <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-                      <span className='text-gradient font-poppins'>{description}</span>
+                    <div className='absolute -bottom-full left-8 group-hover:bottom-32 transition-all duration-500 z-50'>
+                      <span className='text-white font-poppins lg:text-xl text-sm'>{description}</span>
                     </div>
                     <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                      <span className='text-3xl text-white font-poppins'>{name}</span>
+                      <span className='text-xl lg:text-3xl text-pink-400 font-poppins'>{name}</span>
                       {link !== '' && (
                         <button className='btn btn-sm font-poppins ml-4 h-7'>
                           <a href={link} target='_blank' rel='noopener noreferrer'>
                             View Project
                           </a>
-                        </button>
+                        </button> 
                       )}
                     </div>
                   </div>
