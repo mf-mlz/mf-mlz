@@ -92,7 +92,7 @@ echo $message;
 
 - **Cloud Hosting**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=aws,azure,github )](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=aws,azure,github,netlify)](https://skills.thijs.gg)
 
 <br>
 
