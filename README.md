@@ -62,7 +62,7 @@ echo $message;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-![Spotify  Music mfmlz](https://spotify-recently-played-readme.vercel.app/api?user=12186582363&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12186582363)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
