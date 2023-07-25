@@ -7,6 +7,7 @@ import Projects from './Projects';
 import Skiils from './Skiils';
 import Skill from './Skill';
 import Services from './Services';
+import Courses from './Courses';
 
 const Header = () => {
 
@@ -53,6 +54,7 @@ const Header = () => {
       </div>
       <Banner theme={theme} />
       <About theme={theme} />
+      <Courses theme={theme} />
       <Services theme={theme} />
       <Work theme={theme} />
       <Projects theme={theme} />

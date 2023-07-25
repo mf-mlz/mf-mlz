@@ -2,24 +2,8 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
 import CV from '../assets/cv/CV-2023.pdf';
+import { services } from '../data';
 
-const services = [
-  {
-    name: 'Full Stack Developer',
-    description: 'I worked 1 year 9 months within the company EGO TI S.A de C.V within the position of Developer, where my tasks were focused on the maintenance of the websites in charge of the company.',
-    link: 'Learn More'
-  },
-  {
-    name: 'Full Stack Developer',
-    description: 'I currently work within the company VORTEX DEVELOPMENT in the position of Web Developer, where my main activity is the development of Enterprise Resource Planning (ERP) and other types of company projects.',
-    link: 'Learn More'
-  },
-  {
-    name: 'PHP Developer',
-    description: 'I currently work within the company AP INTERFACES in the position of PHP Developer, where my main function is within the Remediation team, where I fix vulnerabilities in various languages, especially PHP.',
-    link: 'Learn More'
-  }
-];
 
 const handleDownload = () => {
   const fileUrl = CV; 

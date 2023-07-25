@@ -1,84 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
-import ImgPokeWhitePHP from '../assets/img/portfolio/PokeApiWhitePHP.png';
-import ImgPokeDarkPHP from '../assets/img/portfolio/PokeApiDarkPHP.png';
-import ImgPokeWhiteJS from '../assets/img/portfolio/PokeApiWhiteJS.png';
-import ImgPokeDarkJS from '../assets/img/portfolio/PokeApiDakJS.png';
-import ImgSamifyWhite from '../assets/img/portfolio/SamifyWhite.png';
-import ImgSamifyDark from '../assets/img/portfolio/SamifyDark.png';
-import ImgFizzBuzzWhite from '../assets/img/portfolio/FizzBuzzWhite.png';
-import ImgFizzBuzzDark from '../assets/img/portfolio/FizzBuzzDark.png';
-import ImgFoodWhite from '../assets/img/portfolio/FoodWhiteTailwind.png';
-import ImgFoodDark from '../assets/img/portfolio/FoodDarkTailwind.png';
-import ImgRockPaperScissorsDark from '../assets/img/portfolio/RockPappersScissorsJSDark.png';
-import ImgRockPaperScissorsDarkWhite from '../assets/img/portfolio/RockPappersScissorsJSWhite.png';
-import ImgPasteleriaDark from '../assets/img/portfolio/PasteleriaDarkBootstrap.png';
-import ImgPasteleriaWhite from '../assets/img/portfolio/PasteleriaWhiteBootstrap.png';
-import ImgTucDark from '../assets/img/portfolio/TucDark.png';
-import ImgTucWhite from '../assets/img/portfolio/TucWhite.png';
-
-const Projects = [
-  {
-    name: 'Pokedex JS',
-    description: 'Exercise for consuming a REST API using promises with JavaScript.',
-    link: 'https://mfmlz-poke-api.netlify.app/',
-    imgDark: ImgPokeDarkJS,
-    img: ImgPokeWhiteJS
-
-  },
-  {
-    name: 'Pokedex PHP',
-    description: 'Exercise for consuming a REST API using PHP.',
-    link: 'http://pokeapi-php.infinityfreeapp.com/?i=1',
-    imgDark: ImgPokeDarkPHP,
-    img: ImgPokeWhitePHP
-  },
-  {
-    name: 'FizzBuzz',
-    description: 'Fizzbuzz test done with JavaScript.',
-    link: 'https://fizzbuzz-mfmlz.netlify.app/',
-    imgDark: ImgFizzBuzzDark,
-    img: ImgFizzBuzzWhite
-  },
-  {
-    name: 'Platzi Food',
-    description: 'Website built with Tailwind CSS.',
-    link: 'https://rock-paper-scissors-mfmlz.netlify.app/',
-    imgDark: ImgFoodDark,
-    img: ImgFoodWhite
-  },
-  {
-    name: 'Erp - Tuc',
-    description: 'ERP system developed for the TUC Transport company, developed with Codeigniter and MySQL.',
-    link: '',
-    imgDark: ImgTucDark,
-    img: ImgTucWhite
-  },
-  {
-    name: 'Pasteleria Mf-Mlz',
-    description: 'Website built with Bootstrap.',
-    link: 'https://mf-mlz.github.io/pasteleria-mfmlz/inicio.html',
-    imgDark: ImgPasteleriaDark,
-    img: ImgPasteleriaWhite
-  },
-  {
-    name: 'Rock, Papers, or Scissors',
-    description: 'Exercise to simulate the game of Rock Paper or Scissors made with JavaScript.',
-    link: 'https://rock-paper-scissors-mfmlz.netlify.app/',
-    imgDark: ImgRockPaperScissorsDark,
-    img: ImgRockPaperScissorsDarkWhite
-  },
-
-  {
-    name: 'Samify',
-    description: 'Website inspired by Spotify, developed with Angular, Mongodb and Node JS (In development).',
-    link: '',
-    imgDark: ImgSamifyDark,
-    img: ImgSamifyWhite
-  },
-
-];
+import { Works } from '../data';
 
 
 const Work = ({ theme }) => {
@@ -106,8 +29,8 @@ const Work = ({ theme }) => {
           <div
           
            className='grid grid-cols-1 lg:grid-cols-2 gap-4'>
-            {Projects.map((project, index) => {
-              const { name, description, link, img, imgDark } = project;
+            {Works.map((work, index) => {
+              const { name, description, link, img, imgDark } = work;
               return (
                 <div className='w-full p-2' key={index}>
                   <div className='group relative overflow-hidden border-2 border-black/70 dark:border-white/50 rounded-xl h-96'>
