@@ -11,10 +11,7 @@ const About = ({ theme }) => {
 
   const[t] = useTranslation("global");
 
-  const objectLength = Object.entries(global_es.courses_list).length;
   
-  const contadorArray = Array.from({ length: objectLength }, (_, index) => index);
-
   const[ref, inView] = useInView({
     threshold: 0.5,
   });
@@ -61,7 +58,7 @@ const About = ({ theme }) => {
                 </div>
                 <div>
                   <div className='text-[40px] font- text-gradient mb-2'>
-                    { inView ? <CountUp start={0} end={contadorArray} duration={8}/> : null }
+                    { inView ? <CountUp start={0} end={10} duration={8}/> : null }
                   </div>
                   <div className='text-sm tracking-[2px] font-poppins text-black dark:text-white font-bold'>
                   {t("about.courses")}<br/>
