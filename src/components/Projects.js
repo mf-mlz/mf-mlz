@@ -2,16 +2,20 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
 import { projects } from '../data';
+import { useTranslation } from 'react-i18next';
 
 
 const Projects = ({ theme }) => {
+
+  const[t] = useTranslation("global");
+
   return (
     <section id='projects' className='section min-h-[85vh] lg:min-h-[78vh]'>
       <div className='container mx-auto'>
 
       <div className='flex-1'>
           <div className='mt-16 flex flex-col justify-center items-center'>
-              <h3 className='h3 text-[45px] lg:text-[80px] leading-none mb-12 font-poppins text-black dark:text-white'>Participation in Projects</h3>
+              <h3 className='h3 text-[45px] lg:text-[80px] leading-none mb-12 font-poppins text-black dark:text-white'>{t("participation.title")}</h3>
           </div>
         </div>
 

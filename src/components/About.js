@@ -3,9 +3,12 @@ import CountUp from 'react-countup';
 import { useInView } from 'react-intersection-observer';
 import { motion } from 'framer-motion';
 import {fadeIn} from '../variants';
+import { useTranslation } from 'react-i18next';
 
 
 const About = ({ theme }) => {
+
+  const[t] = useTranslation("global");
 
   const[ref, inView] = useInView({
     threshold: 0.5,
@@ -29,41 +32,41 @@ const About = ({ theme }) => {
             </motion.div>
             
             <div className='flex-1'>
-              <h2 className='h2 text-accent font-poppins'>About Me.</h2>
-              <h3 className='h3 mb-4 font-poppins text-black dark:text-white'>I'm a Web Developer with 2 years of experience.</h3>
-              <p className='mb-6 font-poppins text-black dark:text-white'>I like learning about new technologies and I am passionate about my career.</p>
+              <h2 className='h2 text-accent font-poppins'>{t("about.title")}</h2>
+              <h3 className='h3 mb-4 font-poppins text-black dark:text-white'>{t("about.subtitle")}</h3>
+              <p className='mb-6 font-poppins text-black dark:text-white'>{t("about.description")}</p>
               <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
                 <div>
                   <div className='text-[40px] font- text-gradient mb-2'>
                     { inView ? <CountUp start={0} end={2} duration={8}/> : null }
                   </div>
                   <div className='text-sm tracking-[2px] font-poppins text-black dark:text-white font-bold'>
-                    Years of<br/>
-                    Experience
+                  {t("about.years_of")}<br/>
+                  {t("about.experience")}
                   </div>
                 </div>
                 <div>
                   <div className='text-[40px] font- text-gradient mb-2'>
                     { inView ? <CountUp start={0} end={6} duration={8}/> : null }
                   </div>
-                  <div className='text-sm tracking-[2px] font-poppins text-black dark:text-white'>
-                    Projects<br/>
-                    Completed
+                  <div className='text-sm tracking-[2px] font-poppins text-black dark:text-white font-bold'>
+                  {t("about.projects")}<br/>
+                  {t("about.completed")}
                   </div>
                 </div>
                 <div>
                   <div className='text-[40px] font- text-gradient mb-2'>
                     { inView ? <CountUp start={0} end={9} duration={8}/> : null }
                   </div>
-                  <div className='text-sm tracking-[2px] font-poppins text-black dark:text-white'>
-                    Courses<br/>
-                    Completed
+                  <div className='text-sm tracking-[2px] font-poppins text-black dark:text-white font-bold'>
+                  {t("about.courses")}<br/>
+                  {t("about.completed")}
                   </div>
                 </div>
               </div>
               <div className='flex gap-x-8 items-center'>
-                    <button className='btn btn-lg font-poppins' onClick={() => window.location.href = mailtoLink}>Contact Me</button>
-                    <a href='https://github.com/mf-mlz' target='_blank' rel="noopener noreferrer" className='text-gradient btn-link font-poppins'>Visit My Github</a>
+                    <button className='btn btn-lg font-poppins' onClick={() => window.location.href = mailtoLink}>{t("contact")}</button>
+                    <a href='https://github.com/mf-mlz' target='_blank' rel="noopener noreferrer" className='text-gradient btn-link font-poppins'>{t("github")}</a>
                   </div>
             </div>
         </div>

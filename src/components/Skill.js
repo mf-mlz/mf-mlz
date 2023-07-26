@@ -2,8 +2,12 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
 import { skills } from '../data';
+import { useTranslation } from 'react-i18next';
 
 const Skill = ({ theme }) => {
+
+  const[t] = useTranslation("global");
+
   return (
     <section id='skill' className='section-skill'>
       <div className='container mx-auto'>
@@ -15,7 +19,7 @@ const Skill = ({ theme }) => {
          viewport={{once:false, amount:0.3}}
         className='flex-1'>
           <div className='mt-16 flex flex-col justify-center items-center'>
-              <h3 className='h3 text-[45px] lg:text-[80px] leading-none mb-12 font-poppins text-black dark:text-white'>Other Skills</h3>
+              <h3 className='h3 text-[45px] lg:text-[80px] leading-none mb-12 font-poppins text-black dark:text-white'>{t("skills.other")}</h3>
           </div>
         </motion.div>
 

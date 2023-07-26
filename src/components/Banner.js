@@ -1,11 +1,12 @@
 import React from 'react';
-import ImageWhite from '../assets/img/GirlWhite.png';
-import ImageDark from '../assets/img/GirlDark.png';
 import { FaGithub, FaLinkedin, FaInstagram } from 'react-icons/fa';
 import { TypeAnimation } from 'react-type-animation';
 import { motion } from 'framer-motion';
 import {fadeIn } from '../variants';
+import { useTranslation } from 'react-i18next';
 import CV from '../assets/cv/CV-2023.pdf';
+import ImageWhite from '../assets/img/GirlWhite.png';
+import ImageDark from '../assets/img/GirlDark.png';
 
 
 const handleDownload = () => {
@@ -19,7 +20,10 @@ const handleDownload = () => {
 };
 
 
-const Banner = ({ theme }) => {
+const Banner = ({ theme, animationKey }) => {
+
+  const[t] = useTranslation("global");
+
   return (
     <section id="home" className='min-h-[85vh] lg:min-h-[78vh] flex items-center'>
       <div className='container mx-auto'>
@@ -39,15 +43,17 @@ const Banner = ({ theme }) => {
               whileInView={'show'} 
               viewport={{once:false, amount: 0.7}} 
               className='mb-6 text-[36px] lg:text-[60px] font-poppins font-semibold uppercase leading-[1]'>
-              <span className='text-black dark:text-white mr-4'>I am </span>
-              <TypeAnimation  sequence={[
-                'Developer',
+              <span className='text-black dark:text-white mr-4'>{t("banner.i_am")}</span>
+              <TypeAnimation  
+              key={animationKey}
+              sequence={[
+                t("banner.developer"),
                 2000,
-                'Creative',
+                t("banner.creative"),
                 2000,
-                'Proactive',
+                t("banner.proactive"),
                 2000,
-                'Autodidactic',
+                t("banner.autodidactic"),
                 2000,
                 ]}
                 speed={50}
@@ -62,14 +68,14 @@ const Banner = ({ theme }) => {
                whileInView={'show'} 
                viewport={{once:false, amount: 0.7}} 
                className='font-poppins mb-8 max-w-lg mx-auto lg:mx-0 text-black dark:text-white italic'>
-               I swear it worked on my machine.
+               {t("banner.message")}
               </motion.p>
               <div className='flex max-w-max gap-x-6 items-center mb-12 mx-auto'>
                 <button className='btn btn-lg font-poppins' onClick={handleDownload}>
-                  Download CV
+                {t("download_cv")}
                 </button>
                 <a href='https://wa.me/7714334090?text=Hola,%20estoy%20interesado%20en%20tu%20CV.' target='_blank' rel="noopener noreferrer" className='font-poppins text-gradient btn-link'>
-                  Contact Us
+                {t("contact")}
                 </a>
               </div>
               <div className='flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0 text-black dark:text-white'>

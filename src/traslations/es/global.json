@@ -1,0 +1,183 @@
+
+{
+
+    "about": {
+        "title": "Sobre Mi",
+        "subtitle": "Soy Desarrolladora Web con 2 años de experiencia.",
+        "description": "Me gusta aprender sobre nuevas tecnologías y me apasiona mi carrera.",
+        "years_of": "Años de",
+        "experience": "Experiencia",
+        "projects": "Proyectos",
+        "courses": "Cursos",
+        "completed": "Terminados"
+    },
+
+    "banner":{
+        "i_am": "Soy",
+        "developer": "Desarrolladora",
+        "creative": "Creativa",
+        "proactive": "Proactiva",
+        "autodidactic": "Autodidacta",
+        "message": "Regla #1: Si algo funciona, no lo toques."
+    },
+
+    "courses":{
+        "title": "Cursos"
+    },
+
+    "courses_list": [
+        {
+            "title": "Administración en la Nube",
+            "description": "Curso enfocado en la administración de archivos en la Nube, para su correcta administración.",
+            "file": "https://drive.google.com/file/d/1vvC0RfWZUou2Q7W0fejROmlU4eA49oAr/view?usp=drive_link"
+        },
+        {
+            "title": "Administración de Bases de Datos",
+            "description": "Curso enfocado a la administración de bases de datos relacionales, en este caso MySQL, para la correcta creación de tablas, procedimientos almacenados, disparadores, entre otras funcionalidades propias de una base de datos relacional.",
+            "file": "https://drive.google.com/file/d/18oZ09Rz-_TDTe0TGSoWLCPibEffNscDn/view?usp=drive_link"
+        },
+        {
+            "title": "Introducción a la Programación",
+            "description": "Este curso se centró en los principios básicos de la programación orientada a objetos, donde se tocaron temas básicos sobre la asignación de valores a los diferentes tipos de variables, métodos, funciones, etc...",
+            "file": "https://drive.google.com/file/d/1WMLfcsGXh7P-OT_wXfrzZNZJlcPLrlOE/view?usp=drive_link"
+        },
+        {
+            "title": "Control de Versiones",
+            "description": "Curso enfocado en el Control de Versiones (Git)",
+            "file": "https://drive.google.com/file/d/1ho5VxufnBWFu6aNgj0m8Ra2cA7UF7IOq/view?usp=drive_link"
+        },
+        {
+            "title": "Asincronismo en JavaScript 2019",
+            "description": "Este curso se enfoca en cómo se usan las funciones asíncronas, a través de promesas, async/await o funciones con Callback.",
+            "file": "https://drive.google.com/file/d/1bpJGX2zjUdOOUR8P8ujK9TcgZECWs-y8/view?usp=drive_link"
+        },
+        {
+            "title": "Curso Básico de JavaScript",
+            "description": "Este curso se basa en los conceptos básicos de JavaScript, donde se abordan temas como qué tipos de variables existen, funciones, bucles, condicionales, etc...",
+            "file": "https://drive.google.com/file/d/1rYRl6zlR68XUUaH6XlRpwNb2-Q35r3r7/view?usp=drive_link"
+        },
+        {
+            "title": "Bootstrap",
+            "description": "Curso enfocado en la Librería Bootstrap para aprender a crear un sitio web.",
+            "file": "https://drive.google.com/file/d/100I2v9Sc7sf9yiUek08uyezUhcRYvDSj/view?usp=drive_link"
+        },
+        {
+            "title": "Curso Profesional de Git y Github",
+            "description": "Este curso se enfocó en los puntos principales para hacer un buen uso del administrador de versiones, en este caso Git, donde tocaron temas como realizar un commit, subir cambios, bajar cambios, hacer pull request, revertir cambios y de igual forma tocaron temas relacionados con la administración de repositorios, en este caso GitHub.",
+            "file": "https://drive.google.com/file/d/1p3SXblctI9z8PY05JQflf1ooxGl9AHTC/view?usp=drive_link"
+        },
+        {
+            "title": "Configuración de Entorno de Desarrollo en Windows",
+            "description": "Curso enfocado a la configuración inicial en el Sistema Operativo Windows, para un adecuado ambiente de trabajo.",
+            "file": "https://drive.google.com/file/d/1bD842UUbfzmMND4_-R4WgCZhb9c8Kg2W/view?usp=drive_link"
+        },
+        {
+            "title": "Tailwind CSS 2020",
+            "description": "Curso enfocado en la Librería Tailwind CSS para aprender a crear un sitio web.",
+            "file": "https://drive.google.com/file/d/1eKOom-ozJ94WFLR3BcMm75fIW0oNlE6P/view?usp=drive_link"
+        }
+    ],
+
+    "services":{
+        "title": "Mi Experiencia Laboral"
+    },
+
+   
+    "services_list": [
+        {
+            "name": "Desarrollador Full Stack",
+            "description": "Trabajé 1 año 9 meses dentro de la empresa EGO TI S.A de C.V dentro del cargo de Desarrollador, donde mis tareas estaban enfocadas al mantenimiento de los sitios web a cargo de la empresa."
+        },
+        {
+            "name": "Desarrollador Full Stack",
+            "description": "Actualmente me desempeño dentro de la empresa VORTEX DEVELOPMENT en el puesto de Desarrollador Web, donde mi principal actividad es el desarrollo de Enterprise Resource Planning (ERP) y otro tipo de proyectos de la empresa."
+        },
+        {
+            "name": "Desarrollador PHP",
+            "description": "Actualmente trabajo dentro de la empresa AP INTERFACES en el puesto de Desarrollador PHP, donde mi función principal es dentro del equipo de Remediación, donde corrijo vulnerabilidades en varios lenguajes, especialmente PHP."
+        }
+    ],
+
+
+    "projects":{
+        "title": "Mis proyectos personales.",
+        "subtitle": "Entre algunos pequeños proyectos que he realizado, van desde ejercicios, hasta pequeñas páginas hechas con Bootstrap o Tailwind CSS, también para practicar el consumo de una API REST como la de Pokemon, y un pequeño Spotify hecho con Node JS, Mongo DB y Angular (que todavía está en desarrollo)."
+    },
+
+    "projects_list": [
+        {
+            "name": "Pokedex JS",
+            "description": "Ejercicio para consumir una API REST usando promesas con JavaScript.",
+            "link": "https://mfmlz-poke-api.netlify.app/",
+            "imgDark": "https://i.ibb.co/PCFNYTm/Poke-Api-Dak-JS.png",
+            "img": "https://i.ibb.co/myYzVc0/Poke-Api-White-JS.png"
+        },
+        {
+            "name": "Pokedex PHP",
+            "description": "Ejercicio para consumir una API REST con PHP.",
+            "link": "http://pokeapi-php.infinityfreeapp.com/?i=1",
+            "imgDark": "https://i.ibb.co/v3kqs25/Poke-Api-Dark-PHP.png",
+            "img": "https://i.ibb.co/vY4Wjk6/Poke-Api-White-PHP.png"
+        },
+        {
+            "name": "FizzBuzz",
+            "description": "Ejercicio de FizzBuzz realizado con JS",
+            "link": "https://fizzbuzz-mfmlz.netlify.app/",
+            "imgDark": "https://i.ibb.co/CPdS3mL/Fizz-Buzz-Dark.png",
+            "img": "https://i.ibb.co/Y36f6qg/Fizz-Buzz-White.png"
+        },
+        {
+            "name": "Platzi Food",
+            "description": "Sitio Construido con Tailwind CSS.",
+            "link": "https://rock-paper-scissors-mfmlz.netlify.app/",
+            "imgDark": "https://i.ibb.co/Jkk9Xqn/Food-Dark-Tailwind.png",
+            "img": "https://i.ibb.co/xzkyhD2/Food-White-Tailwind.png"
+        },
+        {
+            "name": "Erp - Tuc",
+            "description": "Sistema ERP desarrollado para la empresa Transportes TUC, desarrollado con Codeigniter y MySQL.",
+            "link": "",
+            "imgDark": "https://i.ibb.co/BVHR8m7/TucDark.png",
+            "img": "https://i.ibb.co/kgKW6qF/TucWhite.png"
+        },
+        {
+            "name": "Pasteleria Mf-Mlz",
+            "description": "Sitio Construido con Bootstrap.",
+            "link": "https://mf-mlz.github.io/pasteleria-mfmlz/inicio.html",
+            "imgDark": "https://i.ibb.co/J7GrkVZ/Pasteleria-Dark-Bootstrap.png",
+            "img": "https://i.ibb.co/WD2NDYL/Pasteleria-White-Bootstrap.png"
+        },
+        {
+            "name": "Rock, Papers, or Scissors",
+            "description": "Ejercicio para simular el juego de Piedra, Papel o Tijera hecho con JavaScript.",
+            "link": "https://rock-paper-scissors-mfmlz.netlify.app/",
+            "imgDark": "https://i.ibb.co/jVwKCCB/Rock-Pappers-Scissors-JSDark.png",
+            "img": "https://i.ibb.co/wd1J5pC/Rock-Pappers-Scissors-JSWhite.png"
+        },
+        {
+            "name": "Samify",
+            "description": "Sitio web inspirado en Spotify, desarrollado con Angular, Mongodb y Node JS (En desarrollo).",
+            "link": "",
+            "imgDark": "https://i.ibb.co/RCgnbrz/Samify-Dark.png",
+            "img": "https://i.ibb.co/N1DrT3j/Samify-White.png"
+        }
+    ],
+
+    "participation":{
+        "title": "Participación en Proyectos."
+    },
+
+    "skills":{
+        "title": "Habilidades.",
+        "subtitle_1": "Mis habilidades",
+        "subtitle_2": "principales",
+        "other": "Otras Habilidades"
+    },
+
+    "logo": "MFML",
+    "contact" : "Contáctame",
+    "github" : "Visita Mi Github",
+    "download_cv": "Descargar CV",
+    "view_project": "Ver Proyecto"
+    
+}

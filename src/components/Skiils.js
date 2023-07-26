@@ -1,16 +1,20 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
+import { useTranslation } from 'react-i18next';
 
 const Skiils = () => {
+
+  const[t] = useTranslation("global");
+
   return (
     <section id='skills' className='section'>
       <div className='container mx-auto'>
        <div className='flex flex-col lg:flex-row'>
         <div className='flex-1'>
           <div className='mt-16'>
-              <h4 className='h2 text-x1 uppercase text-accent font-medium mb-2 tracking-wide font-poppins'>My Skiils</h4>
-              <h2 className='h2 text-[45px] lg:text-[80px] leading-none mb-12 font-poppins text-black dark:text-white'>Let's to my <br/> principal skills</h2>
+              <h4 className='h2 text-x1 uppercase text-accent font-medium mb-2 tracking-wide font-poppins'>{t("skills.title")}</h4>
+              <h2 className='h2 text-[45px] lg:text-[80px] leading-none mb-12 font-poppins text-black dark:text-white'>{t("skills.subtitle_1")}<br></br>{t("skills.subtitle_2")}</h2>
           </div>
         </div>
         <motion.div
