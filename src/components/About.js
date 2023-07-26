@@ -4,7 +4,6 @@ import { useInView } from 'react-intersection-observer';
 import { motion } from 'framer-motion';
 import {fadeIn} from '../variants';
 import { useTranslation } from 'react-i18next';
-import global_es from '../traslations/es/global.json';
 
 
 const About = ({ theme }) => {
