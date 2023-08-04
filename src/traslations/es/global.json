@@ -160,6 +160,13 @@
             "link": "",
             "imgDark": "https://i.ibb.co/RCgnbrz/Samify-Dark.png",
             "img": "https://i.ibb.co/N1DrT3j/Samify-White.png"
+        },
+        {
+            "name": "Samflix",
+            "description": "Sitio web inspirado en Netflix, desarrollado con React, CSS y The Movie DB.",
+            "link": "https://samflix-mfmlz.netlify.app/",
+            "imgDark": "https://i.ibb.co/ZKDHZwL/Samflix-Dark.png",
+            "img": "https://i.ibb.co/JsVp9RR/Samflix-White.png"
         }
     ],
 
