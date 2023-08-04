@@ -33,7 +33,7 @@ const Courses = ({ theme }) => {
               {contadorArray.map((index)=>{
                 return(
                   <div className='border-b border-black/30 dark:border-white/30  h-full mb-[38px] flex' key={ index }>
-                    <div className='max-w-[600px] h-[200px] lg:h-[230px]'>
+                    <div className='max-w-[600px] pb-10'>
                       <h4 className='font-poppins text-[20px] tracking-wider font-semibold mb-6 text-gradient'>{t("courses_list."+(index)+".title")}</h4>
                       <p className='font-poppins leading-tight text-black dark:text-white text-[13px] lg:text-[20px]'>{t("courses_list."+(index)+".description")}</p>
                     </div>
