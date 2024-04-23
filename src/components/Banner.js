@@ -85,7 +85,7 @@ const Banner = ({ theme, animationKey }) => {
                 <a href='https://www.linkedin.com/in/maria-fernanda-martinez-labra-732039161/' target='_blank' rel="noopener noreferrer">
                   <FaLinkedin />
                 </a>
-                <a href='https://www.instagram.com/_mf_ml_/' target='_blank' rel="noopener noreferrer">
+                <a href='https://www.instagram.com/mfmlz/' target='_blank' rel="noopener noreferrer">
                   <FaInstagram />
                 </a>
               </div>
