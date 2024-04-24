@@ -28,7 +28,7 @@ const Projects = ({ theme }) => {
         {projects.map((project, index)=>{
               return (
               <div className="flex items-center justify-center mb-16" key={index}>
-                <img className='w-24 h-24' src={project.image} alt='' />
+                <img className='w-24 h-24' src={project.image} alt={project.title} title={project.title} />
               </div>
               );              
         })}

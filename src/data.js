@@ -122,17 +122,22 @@ export const skills = [
 export const projects = [
   {
     image: Project1,
+    title: 'Laboratorios Chela'
   },
   {
     image: Project2,
+    title: 'Coppel'
   },
   {
     image: Project3,
+    title: 'Transportes Unidos del Centro'
   },
   {
     image: Project4,
+    title: 'Hyundai Motors México'
   },
   {
-    image: Project5
+    image: Project5,
+    title: 'Community Box'
   }
 ];
