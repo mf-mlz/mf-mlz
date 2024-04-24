@@ -30,7 +30,7 @@ const Nav = () => {
         <Link activeClass='active' smooth={true} spy={true} to='projects' className='cursor-pointer w-[60px] h-60px flex items-center justify-center'>
           <BsCode />
         </Link>
-        <Link activeClass='active' smooth={true} spy={true} to='skills' className='cursor-pointer w-[60px] h-60px flex items-center justify-center'>
+        <Link activeClass='active' smooth={true} spy={true} to='skill' className='cursor-pointer w-[60px] h-60px flex items-center justify-center'>
           <GiSkills />
         </Link>
       </div>

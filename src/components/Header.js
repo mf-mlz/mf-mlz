@@ -7,7 +7,6 @@ import Banner from './Banner';
 import About from './About';
 import Work from './Work';
 import Projects from './Projects';
-import Skiils from './Skiils';
 import Skill from './Skill';
 import Services from './Services';
 import Courses from './Courses';
@@ -83,7 +82,7 @@ const Header = () => {
       <Services theme={theme} />
       <Work theme={theme} />
       <Projects theme={theme} />
-      <Skiils theme={theme} />
+      {/* <Skiils theme={theme} /> */}
       <Skill theme={theme} />
     </header>
   );

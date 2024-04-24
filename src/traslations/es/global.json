@@ -113,13 +113,6 @@
             "img": "https://i.ibb.co/myYzVc0/Poke-Api-White-JS.png"
         },
         {
-            "name": "Pokedex PHP",
-            "description": "Ejercicio para consumir una API REST con PHP.",
-            "link": "http://pokeapi-php.infinityfreeapp.com/?i=1",
-            "imgDark": "https://i.ibb.co/v3kqs25/Poke-Api-Dark-PHP.png",
-            "img": "https://i.ibb.co/vY4Wjk6/Poke-Api-White-PHP.png"
-        },
-        {
             "name": "FizzBuzz",
             "description": "Ejercicio de FizzBuzz realizado con JS",
             "link": "https://fizzbuzz-mfmlz.netlify.app/",
@@ -167,6 +160,13 @@
             "link": "https://samflix-mfmlz.netlify.app/",
             "imgDark": "https://i.ibb.co/ZKDHZwL/Samflix-Dark.png",
             "img": "https://i.ibb.co/JsVp9RR/Samflix-White.png"
+        },
+        {
+            "name": "AdventJS",
+            "description": "Retos del AdventJS 2023",
+            "link": "https://github.com/mf-mlz/adventjs/blob/main/README.md",
+            "imgDark": "https://i.ibb.co/ZKDHZwL/Samflix-Dark.png",
+            "img": "https://i.ibb.co/JsVp9RR/Samflix-White.png"
         }
     ],
 
@@ -185,6 +185,7 @@
     "contact" : "Contáctame",
     "github" : "Visita Mi Github",
     "download_cv": "Descargar CV",
-    "view_project": "Ver Proyecto"
+    "view_project": "Ver Proyecto",
+    "view_repositorie": "Ver Repositorio"
     
 }
