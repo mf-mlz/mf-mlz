@@ -163,6 +163,13 @@
             "link": "https://github.com/mf-mlz/adventjs/blob/main/README.md",
             "imgDark": "https://i.ibb.co/NSxfPm4/Advent-JS-Dark.png",
             "img": "https://i.ibb.co/nLRGhrX/Advent-JS-White.png"
+        },
+        {
+            "name": "Calendar Role MFMLZ",
+            "description": "Calendar Roles LCDC",
+            "link": "https://calendar-role-mfmlz.netlify.app/",
+            "imgDark": "https://i.ibb.co/wd07gVg/Calendar-Dark.png",
+            "img": "https://i.ibb.co/PNVLvGY/Calendar-Light.png"
         }
     ],
     

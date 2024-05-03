@@ -167,6 +167,13 @@
             "link": "https://github.com/mf-mlz/adventjs/blob/main/README.md",
             "imgDark": "https://i.ibb.co/ZKDHZwL/Samflix-Dark.png",
             "img": "https://i.ibb.co/JsVp9RR/Samflix-White.png"
+        },
+        {
+            "name": "Calendario de Roles MFMLZ",
+            "description": "Calendario de Roles LCDC",
+            "link": "https://calendar-role-mfmlz.netlify.app/",
+            "imgDark": "https://i.ibb.co/wd07gVg/Calendar-Dark.png",
+            "img": "https://i.ibb.co/PNVLvGY/Calendar-Light.png"
         }
     ],
 
