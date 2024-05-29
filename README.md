@@ -119,19 +119,12 @@ echo $message;
 
 - **Softwares and Tools**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=linux,git,codepen,postman,bash,eclipse,figma,github,gitlab )](https://skills.thijs.gg)
-
-<br>
-
-- **Extras**:
-
-[![Linux](https://img.shields.io/badge/logo-linux-blue?logo=linux)](https://skills.thijs.gg)
-[![Git](https://img.shields.io/badge/logo-git-blue?logo=git)](https://skills.thijs.gg) 
-[![CodePen](https://img.shields.io/badge/logo-codepen-blue?logo=codepen)](https://skills.thijs.gg) 
-[![Postman](https://img.shields.io/badge/logo-postman-blue?logo=postman)](https://skills.thijs.gg) 
-[![GitHub](https://img.shields.io/badge/logo-github-blue?logo=github)](https://skills.thijs.gg) 
-[![Git](https://img.shields.io/badge/logo-git-blue?logo=git)](https://skills.thijs.gg) 
-[![GitLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab&logoColor=white)](https://skills.thijs.gg)
+   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+   [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+   [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)
+   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 <br>
 
