@@ -125,7 +125,13 @@ echo $message;
 
 - **Extras**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=linux,git,codepen,postman,bash,eclipse,figma,github,gitlab)](https://skills.thijs.gg) [![Linux](https://img.shields.io/badge/Linux-informational)](https://skills.thijs.gg) [![Git](https://img.shields.io/badge/Git-informational)](https://skills.thijs.gg) [![CodePen](https://img.shields.io/badge/CodePen-informational)](https://skills.thijs.gg) [![Postman](https://img.shields.io/badge/Postman-informational)](https://skills.thijs.gg) [![Bash](https://img.shields.io/badge/Bash-informational)](https://skills.thijs.gg) [![Eclipse](https://img.shields.io/badge/Eclipse-informational)](https://skills.thijs.gg) [![Figma](https://img.shields.io/badge/Figma-informational)](https://skills.thijs.gg) [![GitHub](https://img.shields.io/badge/GitHub-informational)](https://skills.thijs.gg) [![GitLab](https://img.shields.io/badge/GitLab-informational)](https://skills.thijs.gg)
+[![Linux](https://img.shields.io/badge/logo-linux-blue?logo=linux)](https://skills.thijs.gg)
+[![Git](https://img.shields.io/badge/logo-git-blue?logo=git)](https://skills.thijs.gg) 
+[![CodePen](https://img.shields.io/badge/logo-codepen-blue?logo=codepen)](https://skills.thijs.gg) 
+[![Postman](https://img.shields.io/badge/logo-postman-blue?logo=postman)](https://skills.thijs.gg) 
+[![GitHub](https://img.shields.io/badge/logo-github-blue?logo=github)](https://skills.thijs.gg) 
+[![Git](https://img.shields.io/badge/logo-git-blue?logo=git)](https://skills.thijs.gg) 
+[![GitLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab&logoColor=white)](https://skills.thijs.gg)
 
 <br>
 
