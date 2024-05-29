@@ -152,11 +152,8 @@ echo $message;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align="center">
-  <a href="https://mf-mlz.github.io/mf-mlz/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![Snake animation](https://github.com/1999AZZAR/1999AZZAR/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mf-mlz&icon=7&color=5)](https://visitcount.itsvg.in)
