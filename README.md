@@ -91,7 +91,10 @@ echo $message;
 
 - **Back-End Development**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=php,java,nodejs )](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://skills.thijs.gg)
+
 
 <br>
 
