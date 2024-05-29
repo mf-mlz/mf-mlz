@@ -100,13 +100,20 @@ echo $message;
 
 - **Databases**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,sql )](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://skills.thijs.gg)
+
 
 <br>
 
 - **Cloud Hosting**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=aws,azure,github,netlify)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://skills.thijs.gg)
+
 
 <br>
 
@@ -118,7 +125,8 @@ echo $message;
 
 - **Extras**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=stackoverflow,linkedin )](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=linux,git,codepen,postman,bash,eclipse,figma,github,gitlab)](https://skills.thijs.gg) [![Linux](https://img.shields.io/badge/Linux-informational)](https://skills.thijs.gg) [![Git](https://img.shields.io/badge/Git-informational)](https://skills.thijs.gg) [![CodePen](https://img.shields.io/badge/CodePen-informational)](https://skills.thijs.gg) [![Postman](https://img.shields.io/badge/Postman-informational)](https://skills.thijs.gg) [![Bash](https://img.shields.io/badge/Bash-informational)](https://skills.thijs.gg) [![Eclipse](https://img.shields.io/badge/Eclipse-informational)](https://skills.thijs.gg) [![Figma](https://img.shields.io/badge/Figma-informational)](https://skills.thijs.gg) [![GitHub](https://img.shields.io/badge/GitHub-informational)](https://skills.thijs.gg) [![GitLab](https://img.shields.io/badge/GitLab-informational)](https://skills.thijs.gg)
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
