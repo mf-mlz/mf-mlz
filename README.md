@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=mf-mlz&icon=7&color=5)](https://visitcount.itsvg.in)
 ```php
 <?php
 
@@ -78,37 +79,54 @@ echo $message;
     
 - **Front-End Development**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,angular,jquery,tailwind,bootstrap )](https://skills.thijs.gg)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 <br>
 
 - **Back-End Development**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=php,java,nodejs )](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://skills.thijs.gg)
+
 
 <br>
 
 - **Databases**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,sql )](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://skills.thijs.gg)
+
 
 <br>
 
 - **Cloud Hosting**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=aws,azure,github,netlify)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://skills.thijs.gg)
+[![My Skills](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://skills.thijs.gg)
+
 
 <br>
 
 - **Softwares and Tools**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=linux,git,codepen,postman,bash,eclipse,figma,github,gitlab )](https://skills.thijs.gg)
+   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+   [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+   [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)
+   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-<br>
-
-- **Extras**:
-
-  [![My Skills](https://skills.thijs.gg/icons?i=stackoverflow,linkedin )](https://skills.thijs.gg)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -135,13 +153,7 @@ echo $message;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align="center">
-  <a href="https://mf-mlz.github.io/mf-mlz/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=mf-mlz&icon=7&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
