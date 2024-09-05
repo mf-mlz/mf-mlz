@@ -38,9 +38,9 @@ const Courses = ({ theme }) => {
                       <p className='font-poppins leading-tight text-black dark:text-white text-[13px] lg:text-[20px]'>{t("courses_list."+(index)+".description")}</p>
                     </div>
                     <div className='flex flex-col flex-1 items-end '>
-                      <a href={t("courses_list."+(index)+".file")} rel="noopener noreferrer" target="_blank" className='btn btn-sm w-9 h-9 mb-[42px] flex justify-center items-center text-white' download>
+                      {/* <a href={t("courses_list."+(index)+".file")} rel="noopener noreferrer" target="_blank" className='btn btn-sm w-9 h-9 mb-[42px] flex justify-center items-center text-white' download>
                         <b className='font-bold'><AiFillEye /></b>
-                      </a>
+                      </a> */}
                     </div> 
                   </div>
                 )

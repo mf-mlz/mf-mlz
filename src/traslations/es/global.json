@@ -119,13 +119,7 @@
             "imgDark": "https://i.ibb.co/CPdS3mL/Fizz-Buzz-Dark.png",
             "img": "https://i.ibb.co/Y36f6qg/Fizz-Buzz-White.png"
         },
-        {
-            "name": "Platzi Food",
-            "description": "Sitio Construido con Tailwind CSS.",
-            "link": "https://rock-paper-scissors-mfmlz.netlify.app/",
-            "imgDark": "https://i.ibb.co/Jkk9Xqn/Food-Dark-Tailwind.png",
-            "img": "https://i.ibb.co/xzkyhD2/Food-White-Tailwind.png"
-        },
+       
         {
             "name": "Erp - Tuc",
             "description": "Sistema ERP desarrollado para la empresa Transportes TUC, desarrollado con Codeigniter y MySQL.",

@@ -49,7 +49,7 @@ const Work = ({ theme }) => {
                       { t("projects_list."+(index)+".link") !== '' && (
                         <button className='btn btn-sm font-poppins ml-4 h-7'>
                           <a href={t("projects_list."+(index)+".link")} target='_blank' rel='noopener noreferrer'>
-                            {t("projects_list."+(index)+".name") === 'AdventJS' ? t("view_project") : t("view_project")}
+                            {t("projects_list."+(index)+".name") === 'AdventJS' ? t("view_repositorie") : t("view_project")}
                           </a>
                         </button> 
                       )}
