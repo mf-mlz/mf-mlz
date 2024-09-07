@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
 import global_es from '../traslations/es/global.json';
-import { AiFillEye } from 'react-icons/ai';
+// import { AiFillEye } from 'react-icons/ai';
 import { useTranslation } from 'react-i18next';
 
 
