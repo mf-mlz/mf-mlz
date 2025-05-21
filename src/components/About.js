@@ -39,7 +39,7 @@ const About = ({ theme }) => {
               <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
                 <div>
                   <div className='text-[40px] font- text-gradient mb-2'>
-                    { inView ? <CountUp start={0} end={3} duration={8}/> : null }
+                    { inView ? <CountUp start={0} end={4} duration={8}/> : null }
                   </div>
                   <div className='text-sm tracking-[2px] font-poppins text-black dark:text-white font-bold'>
                   {t("about.years_of")}<br/>
@@ -48,7 +48,7 @@ const About = ({ theme }) => {
                 </div>
                 <div>
                   <div className='text-[40px] font- text-gradient mb-2'>
-                    { inView ? <CountUp start={0} end={6} duration={8}/> : null }
+                    { inView ? <CountUp start={0} end={7} duration={8}/> : null }
                   </div>
                   <div className='text-sm tracking-[2px] font-poppins text-black dark:text-white font-bold'>
                   {t("about.projects")}<br/>
@@ -57,7 +57,7 @@ const About = ({ theme }) => {
                 </div>
                 <div>
                   <div className='text-[40px] font- text-gradient mb-2'>
-                    { inView ? <CountUp start={0} end={10} duration={8}/> : null }
+                    { inView ? <CountUp start={0} end={11} duration={8}/> : null }
                   </div>
                   <div className='text-sm tracking-[2px] font-poppins text-black dark:text-white font-bold'>
                   {t("about.courses")}<br/>
