@@ -4,7 +4,7 @@ import { TypeAnimation } from 'react-type-animation';
 import { motion } from 'framer-motion';
 import {fadeIn } from '../variants';
 import { useTranslation } from 'react-i18next';
-import CV from '../assets/cv/CV-2023.pdf';
+import CV from '../assets/cv/CV-2025.pdf';
 import ImageWhite from '../assets/img/GirlWhite.png';
 import ImageDark from '../assets/img/GirlDark.png';
 

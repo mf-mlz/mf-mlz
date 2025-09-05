@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
-import CV from '../assets/cv/CV-2023.pdf';
+import CV from '../assets/cv/CV-2025.pdf';
 import global_es from '../traslations/es/global.json';
 import { useTranslation } from 'react-i18next';
 
