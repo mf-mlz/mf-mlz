@@ -19,13 +19,13 @@ class Persona {
 
 #Asignamos los valores de los atributos del Objeto
   $fernanda->name = "María Fernanda Martínez Labra";
-  $fernanda->age = 25;
+  $fernanda->age = 28;
   $fernanda->nationality = "Mexicana";
   $fernanda->currentlyWorking = "Desarrollador PHP en AP/Interfaces";
   $fernanda->professionalApproach = "BackEnd";
   $fernanda->learning = "Buenas prácticas y  la lógica de Programación";
   $fernanda->todaysMood = "Tirar Servidores es mi pasión (Humor)";
-  $fernanda->yearsOfExperience = 2;
+  $fernanda->yearsOfExperience = 5;
 
 
 #Formamos nuestra frase utilizando nuestra función creada

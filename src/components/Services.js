@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
-import CV from '../assets/cv/CV-2025.pdf';
+import CV from '../assets/cv/CV-2026.pdf';
 import global_es from '../traslations/es/global.json';
 import { useTranslation } from 'react-i18next';
 
@@ -10,7 +10,7 @@ const handleDownload = () => {
   const fileUrl = CV; 
   const link = document.createElement('a');
   link.href = fileUrl;
-  link.setAttribute('download', 'CV-Maria-Fernanda-Labra-2023.pdf');
+  link.setAttribute('download', 'CV-Maria-Fernanda-Labra-2026.pdf');
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
