@@ -179,7 +179,7 @@
     {
       "name": "POS System",
       "description": "Point of Sale (POS) system that allows the management of sales, products, clients, modules, permissions, employees, and electronic invoicing, with real-time notifications and internal chat. Developed with Node.js, Angular, and MySQL. (Still in Development)",
-      "link": "",
+      "link": "https://github.com/mf-mlz/Point-sell-front",
       "imgDark": "https://i.ibb.co/YTXPwB4J/pointsell-black.png",
       "img": "https://i.ibb.co/hJWk8N7s/pointsell-white.png"
     }

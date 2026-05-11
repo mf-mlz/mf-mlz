@@ -180,7 +180,7 @@
     {
       "name": "Punto de Venta POS",
       "description": "Sistema de punto de venta (POS) que permite gestionar ventas, productos, clientes, módulos, permisos, empleados y facturación electrónica, con notificaciones en tiempo real y chat interno, desarrollado con Node.js, Angular y MySQL. (Aún en Desarrollo)",
-      "link": "",
+      "link": "https://github.com/mf-mlz/Point-sell-front",
       "imgDark": "https://i.ibb.co/YTXPwB4J/pointsell-black.png",
       "img": "https://i.ibb.co/hJWk8N7s/pointsell-white.png"
     }
