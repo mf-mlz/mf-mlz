@@ -63,7 +63,7 @@ echo $message;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-![Music mfmlz](https://spotify-recently-played-readme.vercel.app/api?user=12186582363&count=1)
+![Music mfmlz](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31eqk3ulpwfqfrgq32n6d4zetdee&count=3&unique=1&footer=wave&accent_color=fc3bc9&logo_color=ee5bf1)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
