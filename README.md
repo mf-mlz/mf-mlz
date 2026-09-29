@@ -148,14 +148,3 @@ echo $message;
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mf-mlz&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![GitHub Stats](./profile/stats.svg)
