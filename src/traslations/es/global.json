@@ -1,7 +1,7 @@
 {
   "about": {
-    "title": "Sobre Mi",
-    "subtitle": "Soy Desarrolladora Web con 5 años de experiencia.",
+    "title": "Sobre mí",
+    "subtitle": "Soy Desarrolladora Full Stack con 5 años de experiencia.",
     "description": "Sobre toda cosa, Dios amó al Mundo, para salvación y por su Sangre hoy podemos ser llamados 'Hijos' ¡Jesucristo es el Camino, la Verdad y la Vida!",
     "years_of": "Años de",
     "experience": "Experiencia",
@@ -26,57 +26,57 @@
   "courses_list": [
     {
       "title": "Administración en la Nube",
-      "description": "Curso enfocado en la administración de archivos en la Nube, para su correcta administración.",
+      "description": "Curso enfocado en la gestión y administración de archivos y recursos en la nube.",
       "file": "https://drive.google.com/file/d/1vvC0RfWZUou2Q7W0fejROmlU4eA49oAr/view?usp=drive_link"
     },
     {
       "title": "Administración de Bases de Datos",
-      "description": "Curso enfocado a la administración de bases de datos relacionales, en este caso MySQL, para la correcta creación de tablas, procedimientos almacenados, disparadores, entre otras funcionalidades propias de una base de datos relacional.",
+      "description": "Curso enfocado en la administración de bases de datos relacionales con MySQL, abordando la creación y gestión de tablas, procedimientos almacenados, disparadores y otras funcionalidades.",
       "file": "https://drive.google.com/file/d/18oZ09Rz-_TDTe0TGSoWLCPibEffNscDn/view?usp=drive_link"
     },
     {
       "title": "Introducción a la Programación",
-      "description": "Este curso se centró en los principios básicos de la programación orientada a objetos, donde se tocaron temas básicos sobre la asignación de valores a los diferentes tipos de variables, métodos, funciones, etc...",
+      "description": "Curso enfocado en los fundamentos de la programación orientada a objetos, abordando conceptos como tipos de datos, variables, métodos y funciones.",
       "file": "https://drive.google.com/file/d/1WMLfcsGXh7P-OT_wXfrzZNZJlcPLrlOE/view?usp=drive_link"
     },
     {
       "title": "Control de Versiones",
-      "description": "Curso enfocado en el Control de Versiones (Git)",
+      "description": "Curso enfocado en los fundamentos y uso de Git como sistema de control de versiones.",
       "file": "https://drive.google.com/file/d/1ho5VxufnBWFu6aNgj0m8Ra2cA7UF7IOq/view?usp=drive_link"
     },
     {
       "title": "Asincronismo en JavaScript 2019",
-      "description": "Este curso se enfoca en cómo se usan las funciones asíncronas, a través de promesas, async/await o funciones con Callback.",
+      "description": "Curso enfocado en el manejo del asincronismo en JavaScript mediante callbacks, promesas y async/await.",
       "file": "https://drive.google.com/file/d/1bpJGX2zjUdOOUR8P8ujK9TcgZECWs-y8/view?usp=drive_link"
     },
     {
       "title": "Curso Básico de JavaScript",
-      "description": "Este curso se basa en los conceptos básicos de JavaScript, donde se abordan temas como qué tipos de variables existen, funciones, bucles, condicionales, etc...",
+      "description": "Curso enfocado en los fundamentos de JavaScript, incluyendo variables, funciones, bucles, condicionales y otros conceptos esenciales del lenguaje.",
       "file": "https://drive.google.com/file/d/1rYRl6zlR68XUUaH6XlRpwNb2-Q35r3r7/view?usp=drive_link"
     },
     {
       "title": "Bootstrap",
-      "description": "Curso enfocado en la Librería Bootstrap para aprender a crear un sitio web.",
+      "description": "Curso enfocado en el uso de Bootstrap para el desarrollo y diseño de sitios web responsivos.",
       "file": "https://drive.google.com/file/d/100I2v9Sc7sf9yiUek08uyezUhcRYvDSj/view?usp=drive_link"
     },
     {
-      "title": "Curso Profesional de Git y Github",
-      "description": "Este curso se enfocó en los puntos principales para hacer un buen uso del administrador de versiones, en este caso Git, donde tocaron temas como realizar un commit, subir cambios, bajar cambios, hacer pull request, revertir cambios y de igual forma tocaron temas relacionados con la administración de repositorios, en este caso GitHub.",
+      "title": "Curso Profesional de Git y GitHub",
+      "description": "Curso enfocado en el uso profesional de Git y GitHub, abordando commits, ramas, pull requests, sincronización de cambios, reversión de cambios y administración de repositorios.",
       "file": "https://drive.google.com/file/d/1p3SXblctI9z8PY05JQflf1ooxGl9AHTC/view?usp=drive_link"
     },
     {
       "title": "Configuración de Entorno de Desarrollo en Windows",
-      "description": "Curso enfocado a la configuración inicial en el Sistema Operativo Windows, para un adecuado ambiente de trabajo.",
+      "description": "Curso enfocado en la configuración de un entorno de desarrollo en Windows para establecer un ambiente de trabajo adecuado.",
       "file": "https://drive.google.com/file/d/1bD842UUbfzmMND4_-R4WgCZhb9c8Kg2W/view?usp=drive_link"
     },
     {
       "title": "Tailwind CSS 2020",
-      "description": "Curso enfocado en la Librería Tailwind CSS para aprender a crear un sitio web.",
+      "description": "Curso enfocado en el uso de Tailwind CSS para el diseño y desarrollo de interfaces web.",
       "file": "https://drive.google.com/file/d/1eKOom-ozJ94WFLR3BcMm75fIW0oNlE6P/view?usp=drive_link"
     },
     {
       "title": "Introducción a la IA",
-      "description": "Curso de Introducción a la Inteligencia Artificial",
+      "description": "Curso introductorio enfocado en los conceptos y fundamentos de la Inteligencia Artificial.",
       "file": "https://drive.google.com/file/d/1eKOom-ozJ94WFLR3BcMm75fIW0oNlE6P/view?usp=drive_link"
     }
   ],
@@ -87,120 +87,126 @@
 
   "services_list": [
     {
-      "name": "Desarrollador Full Stack",
-      "description": "Trabajé 1 año 9 meses dentro de la empresa EGO TI S.A de C.V dentro del cargo de Desarrollador, donde mis tareas estaban enfocadas al mantenimiento de los sitios web a cargo de la empresa."
+      "name": "Desarrolladora Web",
+      "description": "Trabajé durante 1 año y 8 meses en EGO TI S.A. de C.V., participando en el desarrollo, mantenimiento y mejora de aplicaciones y sitios web."
     },
     {
-      "name": "Desarrollador Full Stack",
-      "description": "Actualmente me desempeño dentro de la empresa VORTEX DEVELOPMENT en el puesto de Desarrollador Web, donde mi principal actividad es el desarrollo de Enterprise Resource Planning (ERP) y otro tipo de proyectos de la empresa."
+      "name": "Desarrolladora Full Stack",
+      "description": "Actualmente trabajo en VORTEX DEVELOPMENT como Desarrolladora Full Stack, participando principalmente en el desarrollo de sistemas ERP, APIs REST, aplicaciones web y soluciones empresariales."
     },
     {
-      "name": "Desarrollador PHP",
-      "description": "Actualmente trabajo dentro de la empresa AP INTERFACES en el puesto de Desarrollador PHP, donde mi función principal es dentro del equipo de Remediación, donde corrijo vulnerabilidades en varios lenguajes, especialmente PHP."
+      "name": "Desarrolladora PHP - Remediación",
+      "description": "Actualmente trabajo en AP INTERFACES dentro del equipo de Remediación, realizando mantenimiento, actualización y saneamiento de aplicaciones, así como la identificación y corrección de vulnerabilidades, principalmente en PHP."
     }
   ],
 
   "projects": {
-    "title": "Mis proyectos personales.",
-    "subtitle": "Entre algunos pequeños proyectos que he realizado, van desde ejercicios, hasta pequeñas páginas hechas con Bootstrap o Tailwind CSS, también para practicar el consumo de una API REST como la de Pokemon, y un pequeño Spotify hecho con Node JS, Mongo DB y Angular (que todavía está en desarrollo)."
+    "title": "Mis proyectos",
+    "subtitle": "Selección de proyectos que he desarrollado para fortalecer y aplicar mis conocimientos en desarrollo web y Full Stack, incluyendo aplicaciones empresariales, sistemas ERP, consumo de APIs REST y proyectos realizados con tecnologías como Angular, React, Node.js, PHP, MySQL y MongoDB."
   },
 
   "projects_list": [
     {
       "name": "Pokedex JS",
-      "description": "Ejercicio para consumir una API REST usando promesas con JavaScript.",
+      "description": "Aplicación desarrollada con JavaScript para practicar el consumo de una API REST mediante promesas.",
       "link": "https://mfmlz-poke-api.netlify.app/",
       "imgDark": "https://i.ibb.co/PCFNYTm/Poke-Api-Dak-JS.png",
       "img": "https://i.ibb.co/myYzVc0/Poke-Api-White-JS.png"
     },
     {
       "name": "FizzBuzz",
-      "description": "Ejercicio de FizzBuzz realizado con JS",
+      "description": "Ejercicio de programación FizzBuzz desarrollado con JavaScript.",
       "link": "https://fizzbuzz-mfmlz.netlify.app/",
       "imgDark": "https://i.ibb.co/CPdS3mL/Fizz-Buzz-Dark.png",
       "img": "https://i.ibb.co/Y36f6qg/Fizz-Buzz-White.png"
     },
-
     {
-      "name": "Erp - Tuc",
-      "description": "Sistema ERP desarrollado para la empresa Transportes TUC, desarrollado con Codeigniter y MySQL.",
+      "name": "ERP - TUC",
+      "description": "Sistema ERP desarrollado para la empresa Transportes TUC utilizando CodeIgniter y MySQL.",
       "link": "",
       "imgDark": "https://i.ibb.co/BVHR8m7/TucDark.png",
       "img": "https://i.ibb.co/kgKW6qF/TucWhite.png"
     },
     {
-      "name": "Pasteleria Mf-Mlz",
-      "description": "Sitio Construido con Bootstrap.",
+      "name": "Pastelería MF-MLZ",
+      "description": "Sitio web desarrollado con Bootstrap.",
       "link": "https://mf-mlz.github.io/pasteleria-mfmlz/inicio.html",
       "imgDark": "https://i.ibb.co/J7GrkVZ/Pasteleria-Dark-Bootstrap.png",
       "img": "https://i.ibb.co/WD2NDYL/Pasteleria-White-Bootstrap.png"
     },
     {
-      "name": "Rock, Papers, or Scissors",
-      "description": "Ejercicio para simular el juego de Piedra, Papel o Tijera hecho con JavaScript.",
+      "name": "Rock, Paper or Scissors",
+      "description": "Aplicación desarrollada con JavaScript que simula el clásico juego de Piedra, Papel o Tijera.",
       "link": "https://rock-paper-scissors-mfmlz.netlify.app/",
       "imgDark": "https://i.ibb.co/jVwKCCB/Rock-Pappers-Scissors-JSDark.png",
       "img": "https://i.ibb.co/wd1J5pC/Rock-Pappers-Scissors-JSWhite.png"
     },
     {
       "name": "Samify",
-      "description": "Sitio web inspirado en Spotify, desarrollado con Angular, Mongodb y Node JS (En desarrollo).",
+      "description": "Aplicación web inspirada en Spotify, desarrollada con Angular, MongoDB y Node.js. (En desarrollo)",
       "link": "",
       "imgDark": "https://i.ibb.co/RCgnbrz/Samify-Dark.png",
       "img": "https://i.ibb.co/N1DrT3j/Samify-White.png"
     },
     {
       "name": "Samflix",
-      "description": "Sitio web inspirado en Netflix, desarrollado con React, CSS y The Movie DB.",
+      "description": "Aplicación web inspirada en Netflix, desarrollada con React, CSS y The Movie Database (TMDB).",
       "link": "https://samflix-mfmlz.netlify.app/",
       "imgDark": "https://i.ibb.co/ZKDHZwL/Samflix-Dark.png",
       "img": "https://i.ibb.co/JsVp9RR/Samflix-White.png"
     },
     {
       "name": "AdventJS",
-      "description": "Retos del AdventJS 2023",
+      "description": "Resolución de retos de programación de AdventJS 2023.",
       "link": "https://github.com/mf-mlz/adventjs/blob/main/README.md",
-      "imgDark": "https://i.ibb.co/NSxfPm4/Advent-JS-Dark.png", 
+      "imgDark": "https://i.ibb.co/NSxfPm4/Advent-JS-Dark.png",
       "img": "https://i.ibb.co/nLRGhrX/Advent-JS-White.png"
     },
     {
       "name": "Calendario de Roles MFMLZ",
-      "description": "Calendario de Roles LCDC",
+      "description": "Aplicación web para la gestión y visualización del calendario de roles de LCDC.",
       "link": "https://calendar-role-mfmlz.netlify.app/",
       "imgDark": "https://i.ibb.co/wd07gVg/Calendar-Dark.png",
       "img": "https://i.ibb.co/PNVLvGY/Calendar-Light.png"
     },
     {
       "name": "Grupo Cognac",
-      "description": "Sitio Web Diseñado para el Grupo Musical Cognac",
+      "description": "Sitio web desarrollado para el grupo musical Cognac.",
       "link": "https://grupocognac-mfmlz.netlify.app",
       "imgDark": "https://i.ibb.co/SQ4gmTY/Dise-o-sin-t-tulo-6.png",
       "img": "https://i.ibb.co/zW3r2XH/Dise-o-sin-t-tulo-7.png"
     },
     {
       "name": "Punto de Venta POS",
-      "description": "Sistema de punto de venta (POS) que permite gestionar ventas, productos, clientes, módulos, permisos, empleados y facturación electrónica, con notificaciones en tiempo real y chat interno, desarrollado con Node.js, Angular y MySQL. (Aún en Desarrollo)",
+      "description": "Sistema de punto de venta (POS) que permite gestionar ventas, productos, clientes, módulos, permisos, empleados y facturación electrónica, con notificaciones en tiempo real y chat interno. Desarrollado con Node.js, Angular y MySQL. (Aún en desarrollo)",
       "link": "https://github.com/mf-mlz/Point-sell-front",
       "imgDark": "https://i.ibb.co/YTXPwB4J/pointsell-black.png",
       "img": "https://i.ibb.co/hJWk8N7s/pointsell-white.png"
+    },
+    {
+      "name": "ERP - BIOTA",
+      "description": "Sistema ERP para la gestión integral de viveros, que permite administrar catálogos, clientes, proveedores, contratos, pedidos e inventarios, además de gestionar el ingreso de productos al vivero y visualizar mediante un mapa la distribución y disponibilidad real del inventario.",
+      "link": "",
+      "imgDark": "https://i.ibb.co/39pr2LgK/Biota-Prev.png",
+      "img": "https://i.ibb.co/ymGTS0Nn/Imagen-de-Chat-GPT-29-sept-2026-12-47-56.png"
     }
   ],
 
   "participation": {
-    "title": "Participación en Proyectos."
+    "title": "Participación en Proyectos"
   },
 
   "skills": {
-    "title": "Habilidades.",
+    "title": "Habilidades",
     "subtitle_1": "Mis habilidades",
     "subtitle_2": "principales",
-    "other": "Otras Habilidades"
+    "other": "Otras habilidades"
   },
 
   "logo": "MFML",
   "contact": "Contáctame",
-  "github": "Visita Mi Github",
+  "github": "Visita mi GitHub",
   "download_cv": "Descargar CV",
-  "view_project": "Ver Proyecto",
-  "view_repositorie": "Ver Repositorio"
+  "view_project": "Ver proyecto",
+  "view_repositorie": "Ver repositorio"
 }
